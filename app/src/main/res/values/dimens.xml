@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Margin Sizes-->
+
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+
+
+    <!--Text Sizes-->
+
+    <dimen name="text_size_22">22sp</dimen>
+
+
+    <!--Padding Sizes-->
+
+    <dimen name="padding_12">12dp</dimen>
+
+</resources>

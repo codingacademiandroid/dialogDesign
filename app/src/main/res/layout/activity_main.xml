@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvAlertDialog"
+        android:text="@string/alert_dialog"
+        style="@style/my_own_style"/>
+
+    <TextView
+        android:id="@+id/tvInputDialog"
+        android:text="@string/input_dialog"
+        style="@style/my_own_style"/>
+
+    <TextView
+        android:id="@+id/tvDatePicker"
+        android:text="@string/date_dialog"
+        style="@style/my_own_style"/>
+
+    <TextView
+        android:id="@+id/tvTimePicker"
+        android:text="@string/time_dialog"
+        style="@style/my_own_style"/>
+
+    <TextView
+        android:id="@+id/tvProgressDialog"
+        android:text="@string/progress_dialog"
+        style="@style/my_own_style"/>
+
+    <TextView
+        android:id="@+id/tvCustomDialog"
+        android:text="@string/custom_dialog"
+        style="@style/my_own_style"/>
+
+</LinearLayout>

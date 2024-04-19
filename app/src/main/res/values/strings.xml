@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">GUI_Components</string>
+
+    <string name="alert_dialog">ALERT DIALOG</string>
+    <string name="input_dialog">INPUT DIALOG</string>
+    <string name="date_dialog">DATEPICKER DIALOG</string>
+    <string name="time_dialog">TIMEPICKER DIALOG</string>
+    <string name="progress_dialog">PROGRESS DIALOG</string>
+    <string name="custom_dialog">CUSTOM DIALOG</string>
+
+
+</resources>
